@@ -1,3 +1,5 @@
+// State: isMobileMenuOpen (boolean) - is the mobile menu open?
+
 import { useState } from 'react'
 
 
